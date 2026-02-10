@@ -1,0 +1,77 @@
+{
+  "book_id": "romantic-german-surrealist-local-universal",
+  "title": "The Ledger of Forgotten Dreams",
+  "tagline": "When a librarian of ephemera is tasked with auditing a town's secret dreams, she must confront the surreal lies that bind her reality to its crumbling history.",
+  "target_words": 73836,
+  "actual_words": 73836,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Persistence of Memory and Forgetting",
+    "The Surreal Anatomy of Place",
+    "The Inventory of the Self",
+    "The Tension Between Recorded Truth and Lived Experience"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Clock's Daily Lie",
+      "words": 6153
+    },
+    {
+      "ch": 2,
+      "title": "The Silence of a Known Room",
+      "words": 6153
+    },
+    {
+      "ch": 3,
+      "title": "A Moon of Unfamiliar Seas",
+      "words": 6153
+    },
+    {
+      "ch": 4,
+      "title": "The Taste of Burnt Aluminum",
+      "words": 6153
+    },
+    {
+      "ch": 5,
+      "title": "The Condition of Attics",
+      "words": 6153
+    },
+    {
+      "ch": 6,
+      "title": "A Path of Subtraction",
+      "words": 6153
+    },
+    {
+      "ch": 7,
+      "title": "The Mould of an Absence",
+      "words": 6153
+    },
+    {
+      "ch": 8,
+      "title": "The Sterile Fiction of Light",
+      "words": 6153
+    },
+    {
+      "ch": 9,
+      "title": "A Field Stained Red",
+      "words": 6153
+    },
+    {
+      "ch": 10,
+      "title": "The Rain of Aftermath",
+      "words": 6153
+    },
+    {
+      "ch": 11,
+      "title": "A Different Lie Entirely",
+      "words": 6153
+    },
+    {
+      "ch": 12,
+      "title": "The Lie of Green-Gold Fists",
+      "words": 6153
+    }
+  ]
+}
